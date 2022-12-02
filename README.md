@@ -18,4 +18,9 @@ npm run build
 npm run build --report
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+## Visualize
+
+![](./imgs/1.jpg)
+![](./imgs/2.jpg)
+![](./imgs/3.jpg)
+![](./imgs/4.jpg)
